@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wcD6+qMd9fFKvts4GdW32FnnZRBXHU1Jjl5zhepcJtzwb4MDQidk3Qh9sTmASIEyLRcIKcw7RjuTp7dMhKySwg==",
+  "dgSpecHash": "FY5lmIjoQDdur/deYaoizKvY7gaQOH3AtWXe7jWN73TJktY5F39bhT7aiUvE+XEAWIo48bM2vNETWYpbLpOy1Q==",
   "success": true,
-  "projectFilePath": "E:\\Projecs\\RazorMarket\\RazorMarket.csproj",
+  "projectFilePath": "E:\\Projecs\\113_RazorV1\\RazorMarket\\RazorMarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\welcome\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\welcome\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
