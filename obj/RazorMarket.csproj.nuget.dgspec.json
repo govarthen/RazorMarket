@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projecs\\RazorMarket\\RazorMarket.csproj": {}
+    "E:\\Projecs\\113_RazorV1\\RazorMarket\\RazorMarket.csproj": {}
   },
   "projects": {
-    "E:\\Projecs\\RazorMarket\\RazorMarket.csproj": {
+    "E:\\Projecs\\113_RazorV1\\RazorMarket\\RazorMarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projecs\\RazorMarket\\RazorMarket.csproj",
+        "projectUniqueName": "E:\\Projecs\\113_RazorV1\\RazorMarket\\RazorMarket.csproj",
         "projectName": "RazorMarket",
-        "projectPath": "E:\\Projecs\\RazorMarket\\RazorMarket.csproj",
+        "projectPath": "E:\\Projecs\\113_RazorV1\\RazorMarket\\RazorMarket.csproj",
         "packagesPath": "C:\\Users\\welcome\\.nuget\\packages\\",
-        "outputPath": "E:\\Projecs\\RazorMarket\\obj\\",
+        "outputPath": "E:\\Projecs\\113_RazorV1\\RazorMarket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
